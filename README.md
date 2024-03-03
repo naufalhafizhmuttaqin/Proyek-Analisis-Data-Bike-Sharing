@@ -10,8 +10,11 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 
 # Instalasi
 * Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
-* git clone https://github.com/ariniamsr/bike-sharing.git
+* git clone https://github.com/naufalhafizhmuttaqin/Proyek-Analisis-Data-Bike-Sharing.git
 
-# Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
-pip install streamlit
-pip install -r requirements.txt
+# Pastikan Anda memiliki pustaka-pustaka yang diperlukan:
+* pip install streamlit
+* pip install -r requirements.txt
+
+# Untuk menjalankan streamlit:
+python -m streamlit run (file path)
