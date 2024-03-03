@@ -41,8 +41,8 @@ def macem_season (day_df):
     season_df = day_df.groupby(by="season").count_cr.sum().reset_index() 
     return season_df
 
-days_df = pd.read_csv("C:/Users/ASUS/OneDrive/Documents/VsCode/bikesharing/dashboard/day_clean.csv")
-hours_df = pd.read_csv("C:/Users/ASUS/OneDrive/Documents/VsCode/bikesharing/dashboard/hour_clean.csv")
+days_df = pd.read_csv("./dashboard/day_clean.csv")
+hours_df = pd.read_csv("./dashboard/hour_clean.csv")
 
 datetime_columns = ["dteday"]
 days_df.sort_values(by="dteday", inplace=True)
@@ -66,7 +66,7 @@ with st.sidebar:
     # Title
     st.title("Naufal Hafizh Muttaqin")
     # Menambahkan logo
-    st.image("C:/Users/ASUS/OneDrive/Documents/VsCode/bikesharing/dashboard/bikesharing.jpeg")
+    st.image("./dashboard/bikesharing.jpeg")
     
     start_date, end_date = st.date_input(
         label='Rentang Waktu',
@@ -178,4 +178,4 @@ with st.expander("Conclusion"):
 
 
 # Running streamlit 
-# python -m streamlit run C:\Users\ASUS\OneDrive\Documents\VsCode\bikesharing\dashboard\main.py (file path)
+# python -m streamlit run (file path)
