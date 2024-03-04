@@ -17,10 +17,9 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 * pip install -r requirements.txt
 
 # Untuk menjalankan streamlit di terminal:
-python -m streamlit run (file path)
+* Buka terminal lalu copy command python -m streamlit run
+* Lalu ditambhakan dengan file path dimana anda menyimpan file
 
 *contoh disini menggunakan file path local saya :*
 
 **python -m streamlit run C:\Users\ASUS\OneDrive\Documents\VsCode\bikesharing\dashboard\main.py**
-
-Bisa mengunjungi website ini [Project Data Analytics](https://nbuurd8xlymcsf9ab7sndt.streamlit.app/)
