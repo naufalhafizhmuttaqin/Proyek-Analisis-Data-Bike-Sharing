@@ -19,6 +19,8 @@ Proyek ini bertujuan untuk menganalisis data pada Bike Sharing Dataset. Tujuan a
 # Untuk menjalankan streamlit di terminal:
 python -m streamlit run (file path)
 
-contoh disini menggunakan file path local saya : 
+*contoh disini menggunakan file path local saya :*
 
-python -m streamlit run C:\Users\ASUS\OneDrive\Documents\VsCode\bikesharing\dashboard\main.py
+**python -m streamlit run C:\Users\ASUS\OneDrive\Documents\VsCode\bikesharing\dashboard\main.py**
+
+Bisa mengunjungi website ini [Project Data Analytics](https://nbuurd8xlymcsf9ab7sndt.streamlit.app/)
