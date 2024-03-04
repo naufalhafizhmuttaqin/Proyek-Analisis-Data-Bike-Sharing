@@ -1,5 +1,5 @@
 View dashboard online : 
 
-Bisa dengan kunjungi website ini
+Bisa dengan kunjungi link ini
 
 https://nbuurd8xlymcsf9ab7sndt.streamlit.app/
