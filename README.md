@@ -23,4 +23,4 @@ python -m streamlit run (file path)
 Masuk ke direktori proyek (Local):
 python -m streamlit run (file path)
 
-Atau bisa dengan kunjungi website ini [Project Data Analytics](https://nbuurd8xlymcsf9ab7sndt.streamlit.app/)https://nbuurd8xlymcsf9ab7sndt.streamlit.app/
+Atau bisa dengan kunjungi website ini [Project Data Analytics](https://nbuurd8xlymcsf9ab7sndt.streamlit.app/)
