@@ -1,3 +1,5 @@
-* Berikut adalah link dashboard online :
+View dashboard online : 
+
+Bisa dengan kunjungi website ini
 
 https://nbuurd8xlymcsf9ab7sndt.streamlit.app/
